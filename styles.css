@@ -1,0 +1,219 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+
+}
+h2 {
+    color: rgb(255, 230, 0);
+    background:
+}
+button {
+    color: blue;
+    background: darkgrey;
+}
+header {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 20px ;
+    background:
+}
+section {
+    background: 
+    padding: 20px;
+}
+footer {
+    background:
+    padding: 20px;
+}
+li {
+    display: inline-block;
+    margin-left: 8%;
+    text-decoration: none;
+    padding: auto;
+}
+.DH div {
+    padding: 20px;
+    color: white;
+    margin-left: 170px;
+    position: relative;
+    top: -70px;
+}
+li:hover {
+    border-radius: 3px;
+    text-decoration: none;
+}
+ul {
+    color: gray;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color:white;
+    animation: forwards;
+    animation-duration: 1s;
+    -webkit-animation: forwards;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+body {
+    background: black;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+.hi a {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    text-indent: -9999px;
+    background-image: url("clipart2898018.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -30px;
+    margin-left: 35px;
+    border-color: white 0 0 10px;
+    }
+    .exploit h2 {
+        color: white;
+        margin-left: 350px;
+        nav-down: 10px;
+    }
+    .krnl a {
+        display: inline-block;
+        height: 150px;
+        width: 150px;
+        text-indent: -9999px;
+    background-image: url("download.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: 243px;
+    top: 30px;
+    border-radius: 10%;
+    }
+    .syn a {
+        display: inline-block;
+        height: 150px;
+        width: 150px;
+        text-indent: -9999px;
+    background-image: url("SYN\ Logo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: 713px;
+    top: -290px;
+    border-radius: 10%;
+    }
+    .exploitz h2 {
+        color: white;
+        margin-left: 800px;
+        nav-down: 10px;
+        padding: auto;
+        position: relative;
+        top: -265px;
+    }
+    .me {
+    color: white;
+    position: relative;
+    margin-left: 450px;
+    top: -60px;
+    }
+    .pfp {
+    position: relative;
+    margin-left: 530px;
+    top: -40px;
+    text-indent: -999px;
+    background-repeat: none;
+    background-image: url("a_f428fab2fa3a25cba8ca27c6b23cec54.gif");
+    background-size: 100%;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: whitesmoke 0 0 10px;
+    }
+    .price a {
+    position: relative;
+    margin-left: 480px;
+    top: -50px;
+    }
+    .DH div:hover {
+    box-shadow: white 0 0 10px;
+    border-radius: 10px;
+    flex-grow: inherit;
+    }
+    .prc h2 {
+        color: whitesmoke;
+        text-align: center;
+        position: relative;
+        box-shadow: white 10 10 10px;
+        border-radius: 10px;
+        top: -30px;
+    }
+    .perri {
+        color: grey;
+        text-align: center;
+    }
+    /*FADE*/
+    @keyframes fade-inout {
+        0%{ opacity: 1;}
+        100%{ opacity: 0;}
+    }
+    @keyframes fade-out {
+        100% { opacity: 1;}
+        0% { opacity: 0;}
+    }
+    /*BUTTONS*/
+    .buttons {
+    animation: fade-out 1s;
+    }
+    .home {
+        color: red;
+    }
+    .script {
+        color: red;
+    }
+    .prices {
+        color: red;
+    }
+    .exploit {
+        color: red;
+    /*BUTTONS*/
+    }
+    .crash {
+        color: white;
+        text-decoration: none;
+        position: relative;
+        text-shadow: grey;
+        text-transform: uppercase;
+        font-size-adjust: 20px;
+        margin-left: 610px;
+        top: -40px;
+    }
+    .hubs {
+        color: white;
+        position: relative;
+        margin-left: 610px;
+        top: -100px;
+        text-transform: uppercase;
+    }
+    .crashz {
+        color: white;
+        margin-left: 188px;
+        position: relative;
+        top: -50px;
+    }
+    .crashz div:hover {
+        box-shadow: goldenrod 0 0 10px;
+        border-radius: 10px;
+        padding: 20px;
+        position: relative;
+    }
